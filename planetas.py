@@ -170,3 +170,4 @@ with Session(engine) as session:
             item.nome_cientifico,
             item.composicao
         )
+        # commit da Clara !!!!!!!!!!!!!!! :)
